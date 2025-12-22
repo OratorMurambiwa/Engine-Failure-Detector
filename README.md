@@ -1,6 +1,6 @@
 # Beamline Failure Detector (RUL Predictor)
 
-A full-stack web application for predicting the Remaining Useful Life (RUL) of turbofan engines using machine learning. This system analyzes sensor data from aircraft engines to estimate how many more cycles an engine can operate before requiring maintenance.
+A full-stack web application for predicting the Remaining Useful Life (RUL) of engines using machine learning. This system analyzes sensor data from aircraft engines to estimate how many more cycles an engine can operate before requiring maintenance.
 
 ## Features
 
@@ -236,6 +236,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - NASA for providing the C-MAPSS turbofan engine degradation dataset
-- PyTorch team for the deep learning framework
-- FastAPI and React communities for excellent documentation and tools</content>
-<parameter name="filePath">D:\Users\DELL\Desktop\RUL\README.md
