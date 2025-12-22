@@ -236,3 +236,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - NASA for providing the C-MAPSS turbofan engine degradation dataset
+
+##Juptyer Notebook
+
+- https://colab.research.google.com/drive/161Bq63a0_E4ULPJHu0qZcdhSASQbPAJC?usp=sharing
+
