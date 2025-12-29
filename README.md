@@ -224,20 +224,18 @@ RUL/
 ## Contributing
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+2. Create a feature branch 
+3. Commit your changes 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
 
 ## Acknowledgments
 
 - NASA for providing the C-MAPSS turbofan engine degradation dataset
 
-##Juptyer Notebook
+Juptyer Notebook
 
 - https://colab.research.google.com/drive/161Bq63a0_E4ULPJHu0qZcdhSASQbPAJC?usp=sharing
 
