@@ -1,4 +1,4 @@
-# Beamline Failure Detector (RUL Predictor)
+# Engine Failure Detector
 
 A full-stack web application for predicting the Remaining Useful Life (RUL) of engines using machine learning. This system analyzes sensor data from aircraft engines to estimate how many more cycles an engine can operate before requiring maintenance.
 
